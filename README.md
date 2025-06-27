@@ -3,7 +3,7 @@
 **🗓️ Fechas:** 23–25 de julio de 2025  
 **🕙 Horario:** 10:00 AM – 12:00 PM  
 **👨‍🏫 Instructor:** Miguel Montalvo  
-**📧 Contacto:** miguelmontalvo@princeton.edu  
+**📧 Contacto:** miguelmontalvo@princeton.edu   
 
 Este repositorio contiene materiales del taller **"Explorando el Universo"**, parte de la conferencia **InspiraSTEM 2025**, enfocado en el uso de Python y la biblioteca Astropy para el análisis y visualización de datos astronómicos.
 
