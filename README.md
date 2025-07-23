@@ -67,18 +67,6 @@ Se recomienda tener:
 
 ---
 
-## 📁 Estructura del repositorio
-
-```
-├── notebooks/           # Notebooks de cada día del taller
-├── data/                # Archivos FITS y datos de ejemplo
-├── resources/           # Lecturas, enlaces útiles y extras
-├── README.md            # Este archivo
-└── requirements.txt     # Lista de paquetes necesarios
-```
-
----
-
 ## 🚀 Instalación recomendada
 
 Se recomienda crear un entorno virtual con `conda` o `venv`, y luego instalar las dependencias:
