@@ -92,11 +92,11 @@ La versión de Python está especificada en el archivo
 
 Abre una ventana de terminal apropiada para tu sistema operativo.
 
-Ahora navega a este directorio en la terminal. Por ejemplo, si instalaste el directorio `astropy-workshop` en tu carpeta personal, podrías escribir lo siguiente:
+Ahora navega a este directorio en la terminal. Por ejemplo, si instalaste el directorio `InspiraSTEM-2025-Astropy` en tu carpeta de Descargas, podrías escribir lo siguiente:
 
-    % cd InspiraSTEM-2025-Astropy/00-Install_and_Setup/
+    % cd Downloads/InspiraSTEM-2025-Astropy/InspiraSTEM-2025-Astropy/00-Install_and_Setup/
 
-Y finalmente, en cualquier plataforma, para instalar y activar el entorno `astropy-workshop`, escribe:
+Y finalmente, en cualquier plataforma, para instalar y activar el entorno `astropy-env`, escribe:
 
     % conda env create --file environment.yml
     % conda activate astropy-env
